@@ -81,11 +81,12 @@ The main takeaways from analysis of our models are the following:
 - **Customer Model:** Our model managed to cut down all calls by 44%, drastically reducing costs, while maintaining 76% of potential clients. Analysis from our models indicated that our callers should target an older demographic with significant funds in their bank account.
 - **Call Model:** Our model achieved an overall accuracy of 89% and a recall score of 71%. Analysis from our models indicated that our callers should try to speak for as long as possible, and call potential customers later in the month.
 - **Unsupervised Learning Model for Subscriber Base:** Most of the clusters in our subscribers base consisted of older individuals wiht significant funds in their bank accounts. However, an important cluster in our database consisted of younger, very wealthy and educated demographic. Therefore, we recommend that our callers continue targetting this demographic, along with the older and richer one.
-## How to Run the Project
 
 ### Data Analysis using Tableau
 
 Data Analysis I have performed using Tableau can be found [here](https://dub01.online.tableau.com/#/site/alexanderkneale109-5655d79c05/projects/892499?:origin=card_share_link). 
+
+## How to Run the Project
 
 1. **Clone the Repository:**
 
