@@ -12,10 +12,9 @@ This repository contains a machine learning project that explores how to predict
 - [Model Development & Evaluation](#model-development--evaluation)
 - [Results & Discussion](#results--discussion)
 - [How to Run the Project](#how-to-run-the-project)
-- [Dependencies](#dependencies)
-- [Repository Structure](#repository-structure)
-- [Future Work](#future-work)
+- [License](#license)
 - [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
 ## Project Overview
 
@@ -93,3 +92,23 @@ Data Analysis I have performed using Tableau can be found [here](https://dub01.o
    ```bash
    git clone https://github.com/alexkneale/apziva_project_2.git
    cd apziva_project_2
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+Special thanks to all contributors, online tutorials, and open-source libraries (such as [scikit-learn](https://scikit-learn.org/), [pandas](https://pandas.pydata.org/), and [matplotlib](https://matplotlib.org/)) that made this project possible.  
+Data sources and any relevant publications that influenced this analysis.
+
+## Contact
+
+For any questions, suggestions, or feedback, please feel free to open an issue in the repository or reach out directly:
+
+- **GitHub:** [alexkneale](https://github.com/alexkneale)
+- **Email:** [alexanderkneale109@gmail.com](alexanderkneale109@gmail.com)
+- **Linkedin:** [www.linkedin.com/in/alex-kneale-995b4025b](www.linkedin.com/in/alex-kneale-995b4025b)
+
+
+
