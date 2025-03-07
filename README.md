@@ -83,6 +83,10 @@ The main takeaways from analysis of our models are the following:
 - **Unsupervised Learning Model for Subscriber Base:** Most of the clusters in our subscribers base consisted of older individuals wiht significant funds in their bank accounts. However, an important cluster in our database consisted of younger, very wealthy and educated demographic. Therefore, we recommend that our callers continue targetting this demographic, along with the older and richer one.
 ## How to Run the Project
 
+### Data Analysis using Tableau
+
+Data Analysis I have performed using Tableau can be found [here](https://dub01.online.tableau.com/#/site/alexanderkneale109-5655d79c05/projects/892499?:origin=card_share_link). 
+
 1. **Clone the Repository:**
 
    ```bash
